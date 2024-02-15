@@ -1,5 +1,5 @@
 ###########################################################
-### Welcome to Beautiful Jekyll!
+### Hello Everyone, Im Quatecha
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
 ### the initial set up you won't need to come back to this file often.
@@ -10,21 +10,54 @@
 ############################
 
 # Name of website
-title: My website
+title: Quatecha.github.io
 
 # Your name to show in the footer
-author: Some Person
+author: Quatecha Cleveland Webb
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "### 👋 Hello, World!
+
+I'm Quatecha Cleveland Webb, a passionate cybersecurity enthusiast with a flair for real estate, a love for aviation, a knack for networking, and a dash of style in the world of fashion. Currently soaring through the realms of cybersecurity, I'm on a mission to blend the worlds of technology and diverse interests.
+
+#### 🔒 Cybersecurity Maven
+
+- 🚀 Cybersecurity Fellow with a focus on Cloud computing.
+- 💡 Always exploring the ever-evolving landscapes of threat intelligence, penetration testing, and incident response.
+- 🌐 Networking enthusiast connecting dots and securing digital pathways.
+
+#### 🏡 Real Estate Enthusiast
+
+- 🏠 Exploring the intersection of cybersecurity and real estate tech.
+- 🌆 Fascinated by smart homes, IoT security, and the evolving role of technology in property management.
+
+#### ✈️ Aviation Aficionado
+
+- 🛩️ Sky's the limit! Passionate about everything aviation-related.
+- ✈️ Dreaming of cyber-secured flight systems and the intersection of cybersecurity in the aviation industry.
+
+#### 👗 Fashion and Tech Fusion
+
+- 👠 Bringing a touch of style to the tech world.
+- 💻 Exploring the synergy between fashion and technology—where code meets runway.
+
+#### 🌐 Let's Connect
+
+- 📫 Drop me a message if you share any of my passions or if you're up for a tech and aviation chat!
+- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/Quatecha) for a deeper dive into my professional journey.
+
+#### 🚀 "In a world of zeros and ones, I'm here to make a byte-sized impact across diverse domains!"
+
+Let's embark on this coding journey together! 🚀
+"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    
+    - Credly Badges: "https://www.credly.com/badges/726c8dbf-5bca-47f4-a267-4d07f32042ea/public_url"
+  
 
 ################
 # --- Logo --- #
@@ -32,7 +65,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "C:\Users\Wethe\Downloads\qua.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,36 +83,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "Quatecha.21@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
+  
+  github: Quatecha
+  
+  
+  
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -91,14 +102,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Quatecha.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -218,7 +229,7 @@ footer-hover-col: "#0085A1"
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
 #staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository : # GitHub username/repository eg. "Quatecha/Quatecha.github.io"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
@@ -248,8 +259,6 @@ footer-hover-col: "#0085A1"
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
-# Facebook App ID
-#fb_app_id: ""
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
